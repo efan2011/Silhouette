@@ -442,7 +442,7 @@
         }
     },
     "render_map": {
-        "default_snaplex": null,
+        "default_snaplex": "/HCMA-SL-PROD/shared/HCAProd",
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
